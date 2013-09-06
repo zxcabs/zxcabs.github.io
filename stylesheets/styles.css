@@ -32,7 +32,7 @@ h3, h4, h5, h6 {
     color: #494949;
 }
 
-a {
+dd, a {
     color: #39c;
     font-weight: 400;
     text-decoration: none;
@@ -124,6 +124,7 @@ header .vcard dl dt {
     margin: 0;
     float: left;
     color: #d0d0d0;
+    width: 100px;
 }
 
 header .vcard dl dd {
@@ -134,8 +135,8 @@ header .vcard dl dd {
 }
 
 header .vcard .details .contacts {
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
+    /*border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;*/
     margin: 0 0 8px 0;
     padding: 18px 0 15px 0;
     -webkit-font-smoothing: antialiased;
@@ -285,16 +286,21 @@ footer {
 }
 
 @media print, screen and (max-width: 670px) {
-    header .info {
-        float: none;
-    }
-}
-
-@media print, screen and (max-width: 480px) {
     body {
         padding: 15px;
     }
 
+    header .info {
+        float: none;
+    }
+
+    section {
+        border: 1px solid #e5e5e5;
+        border-width: 1px 0;
+    }
+}
+
+@media print, screen and (max-width: 480px) {
     header ul {
         display: none;
     }
