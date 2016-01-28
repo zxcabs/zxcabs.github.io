@@ -7,13 +7,12 @@
 В настоящее время работаю в компании [“Topface Labs”](http://team.topface.com/)
 
 ## Навыки
-- HTML, CSS
-- JS native (ES6) - AngularJS, jQuery, knockout, Spine, Nodejs, grunt, webpack
-- Delphi, C/C++, PHP - знаком с студенческой поры
-- MySQL, MongoDB, Redis 
-- Linux - на уровне пользоватлея
-- Git - ([GitHub](https://github.io/zxcabs/), [Bitbucket](https://bitbucket.org/zxcabs/))
-- Docker - использую как на работе так и для себя
+- HTML, CSS, JS native (ES6)
+- Практический опыт с: jquery, react (redux), angular 1, backbone, nodejs, redis, mongodb, mysql, docker, webpack, grunt
+
+## Где посмотреть
+- [GitHub](https://github.io/zxcabs/)
+- [Bitbucket](https://bitbucket.org/zxcabs/)
 
 
 ## Опыт работы
@@ -21,19 +20,12 @@
 ### с сентября 2013 - по настоящее время
 _[“Topface”](http://topface.com/), инженер-программист_
 
-#### с сентября 2013 по октябрь 2014 в СММ отделе
 
-В обязаности входит разработка и поддержка сервисов:
-
+**А так же**
 - Сервис статистики по сообщества контакта [allsocial](http://allsocial.ru) (Переписывание вебморды на angular основной, админской и модераторской части)
+- Модераторская фоток для топфейса
 - Сервис отложенного постинга [socialboard.ru](http://socialboard.ru) (Добавление фичь функционала клиентской части)
-
-После выделения СММ отдела в отдельное ООО в (~октябре 2014), перешел в "Topface labs"
-
-В обязанности входит:
-
-- Перевод клиентской части на ES6 и всю сборку на webpack
-- Интервьюирование кандидатов на должность js разработчиков
+- Хакатоновская игра ["Я никогда не"](https://vk.com/app5170296)
 
 ### с апреля 2011 - сентябрь 2013
 _ООО “Эльбанко”, инженер-программист_
