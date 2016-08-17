@@ -8,7 +8,7 @@
 
 ## Навыки
 - HTML, CSS, JS native (ES6)
-- Практический опыт с: jquery, react (redux), angular 1, backbone, nodejs, redis, mongodb, mysql, docker, webpack, grunt
+- Практический опыт с: jquery, react (redux), angular 1, backbone, phaser, nodejs, redis, mongodb, mysql, docker, webpack, grunt
 
 ## Где посмотреть
 - [GitHub](https://github.io/zxcabs/)
