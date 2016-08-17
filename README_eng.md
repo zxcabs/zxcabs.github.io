@@ -8,7 +8,7 @@ Current working place [“Topface Labs”](http://team.topface.com/)
 
 ## Skills
 - HTML, CSS, JS native (ES6)
-- Have practice with: jquery, react (redux), angular 1, backbone, nodejs, redis, mongodb, mysql, docker, webpack, grunt
+- Have practice with: jquery, react (redux), angular 1, backbone, phaser, nodejs, redis, mongodb, mysql, docker, webpack, grunt
 
 ## Code samples
 - [GitHub](https://github.io/zxcabs/)
