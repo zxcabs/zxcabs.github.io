@@ -4,6 +4,11 @@
 
 город: Санкт-Петербург (к переездам или командировкам не готов)
 
+## Связь
+- <a href="https://t.me/kusakyky"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="64" alt="telegram"/></a>
+- <a href="mailto:kusakyky@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" width="64" alt="gmail"/></a>
+</div>
+
 ## Где посмотреть
 - [GitHub](https://github.io/zxcabs/)
 - [Bitbucket](https://bitbucket.org/zxcabs/)
