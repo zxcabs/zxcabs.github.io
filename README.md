@@ -39,8 +39,6 @@ SvelteJs, ReactJs
 _Технологии:_
 ReactJS
 
-Основной стек технологий: React
-
 ### с мая 2018 - июль 2020
 
 ["Cryptopay"](https://business.cryptopay.me/) - Старший веб разработчик B2B 
